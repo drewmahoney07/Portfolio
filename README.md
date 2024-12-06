@@ -12,5 +12,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.** Synthesized data across 5 seasons, optimized for player efficiency rating and salary constraints.
 
 ## Projects
-- **Customer Chrun Rate: Salifort Motors.** In this project I developed a supervised classification machine learning model in order to predict whether or not a customer at Salisfort Motors will leave the company, as well idendifying the biggest reasons why customers are deciding to leave.
+- **Customer Chrun Rate: Waze App.** In this project I developed a supervised classification machine learning model in order to predict whether a user of the Waze traffic app will churn, as well idendifying the biggest reasons why users are deciding to leave the app.
 - **Developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.** In this project I developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.I synthesized data across 5 seasons, optimized for player efficiency rating and salary constraints.
