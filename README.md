@@ -10,3 +10,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Google Advanced Data Analytics Certificate** - Received September 2024 ([click here](https://www.credly.com/badges/8f486231-6ccb-4c67-a580-b98d5b217ff8/linked_in_profile))
 - **Winner of Fairfield University Sports Analytics competition, sponsored by Athletes Unlimited.** Constructed a machine learning model used to correlate performance of Athletes Unlimited basketball players to WNBA basketball players.
 - **Developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.** Synthesized data across 5 seasons, optimized for player efficiency rating and salary constraints.
+
+## Projects
+- **Customer Chrun Rate: Salifort Motors.** In this project I developed a supervised classification machine learning model in order to predict whether or not a customer at Salisfort Motors will leave the company, as well idendifying the biggest reasons why customers are deciding to leave.
+- **Developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.** In this project I developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.I synthesized data across 5 seasons, optimized for player efficiency rating and salary constraints.
