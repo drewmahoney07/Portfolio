@@ -12,9 +12,9 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Identified Netflix’s best-performing shows and movies via applied machine learning model In group project.** Data mined and fully correlated sets of viewer pattern data via mining and synthesis of complex data sets.
 
   ## Core Competencies
-  - **Methodologies:** Machine Learning, Time Series Analysis, Statistics, A/B Testing, Big Data Analytics
-  - **Languages:** Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib, Seaborn), SQL, R
-  - **Tools:** MySQL, Jupyter Notebooks, Tableau, Git, Microsoft Office (Excel, Word, PowerPoint)
+- **Methodologies:** Machine Learning, Time Series Analysis, Statistics, A/B Testing, Big Data Analytics
+- **Languages:** Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib, Seaborn), SQL, R
+- **Tools:** MySQL, Jupyter Notebooks, Tableau, Git, Microsoft Office (Excel, Word, PowerPoint)
 
    ## Achievements
 - **Google Advanced Data Analytics Certificate** - Received September 2024 ([click here](https://www.credly.com/badges/8f486231-6ccb-4c67-a580-b98d5b217ff8/linked_in_profile))
