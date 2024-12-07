@@ -11,7 +11,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.** In this project I developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.I synthesized data across 5 seasons, optimized for player efficiency rating and salary constraints.
 - **Identified Netflix’s best-performing shows and movies via applied machine learning model In group project.** Data mined and fully correlated sets of viewer pattern data via mining and synthesis of complex data sets.
 
-  ## Core Competencies
+## Core Competencies
 - **Methodologies:** Machine Learning, Time Series Analysis, Statistics, A/B Testing, Big Data Analytics
 - **Languages:** Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib, Seaborn), SQL, R
 - **Tools:** MySQL, Jupyter Notebooks, Tableau, Git, Microsoft Office (Excel, Word, PowerPoint)
