@@ -19,3 +19,5 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
    ## Achievements
 - **Google Advanced Data Analytics Certificate** - Received September 2024 ([click here](https://www.credly.com/badges/8f486231-6ccb-4c67-a580-b98d5b217ff8/linked_in_profile))
 - **Winner of Fairfield University Sports Analytics competition, sponsored by Athletes Unlimited.** Constructed a machine learning model used to correlate performance of Athletes Unlimited basketball players to WNBA basketball players.
+
+- ## Certifications
