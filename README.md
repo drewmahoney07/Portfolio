@@ -16,8 +16,15 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Languages:** Python (Pandas, Numpy, Scikit-Learn, Keras, Matplotlib, Seaborn), SQL, R
 - **Tools:** MySQL, Jupyter Notebooks, Tableau, Git, Microsoft Office (Excel, Word, PowerPoint)
 
-## Achievements
-- **Google Advanced Data Analytics Certificate** - Received September 2024 ([click here](https://www.credly.com/badges/8f486231-6ccb-4c67-a580-b98d5b217ff8/linked_in_profile))
-- **Winner of Fairfield University Sports Analytics competition, sponsored by Athletes Unlimited.** Constructed a machine learning model used to correlate performance of Athletes Unlimited basketball players to WNBA basketball players.
+## Certificates
+- **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/8f486231-6ccb-4c67-a580-b98d5b217ff8/linked_in_profile)** - Received September 2024
+  - [Foundations of Data Science](https://coursera.org/share/af4a13915e4d2c190a93305ee14b5bf2) - Received April 2024
+  - Get Started With Python - Received May 2024
+  - Go Beyond The Numbers: Translate Data Into Insights - Received June 2024
+  - The Power of Statistics - Received June 2024
+  - Regression Analysis: Simplify Complex Data Relationships - Received July 2024
+  - The Nuts and Bolts of Machine Learning - Received August 2024
+  - Google Advanced Data Analytics Capstone - Receievd September 2024
 
-## Certifications
+## Achievements
+- **Winner of Fairfield University Sports Analytics competition, sponsored by Athletes Unlimited.** Constructed a machine learning model used to correlate performance of Athletes Unlimited basketball players to WNBA basketball players.
