@@ -1,4 +1,4 @@
-# Data Analytics Portfolio - Andrew Mahoney
+# Data Analytics Portfolio - Drew Mahoney
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic and self-learning purposes. This portfolio also contains my Achievements and Certificates that further showcase my Data Analytics skills. It is updated on a regular basis.
 
 <img align="left" width="270" height="310" src="https://github.com/drewmahoney07/Portfolio/blob/main/Images/Pic_of_Me.jpg">
