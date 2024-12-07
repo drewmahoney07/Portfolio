@@ -19,7 +19,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 ## Certificates
 - **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/8f486231-6ccb-4c67-a580-b98d5b217ff8/linked_in_profile)** - Received September 2024
   - [Foundations of Data Science](https://coursera.org/share/af4a13915e4d2c190a93305ee14b5bf2) - Received April 2024
-  - Get Started With Python - Received May 2024
+  - [Get Started With Python](https://coursera.org/share/6f0d25002b1339684d5ba17cf289261c) - Received May 2024
   - Go Beyond The Numbers: Translate Data Into Insights - Received June 2024
   - The Power of Statistics - Received June 2024
   - Regression Analysis: Simplify Complex Data Relationships - Received July 2024
