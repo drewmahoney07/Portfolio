@@ -17,14 +17,14 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Tools:** MySQL, Jupyter Notebooks, Tableau, Git, Microsoft Office (Excel, Word, PowerPoint)
 
 ## Certificates
-- **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/8f486231-6ccb-4c67-a580-b98d5b217ff8/linked_in_profile)** - Received September 2024
+- **[Google Advanced Data Analytics Certificate](https://coursera.org/share/ee57fc9f8aeecb8470971f03b5676197)** - Received September 2024
   - [Foundations of Data Science](https://coursera.org/share/af4a13915e4d2c190a93305ee14b5bf2) - Received April 2024
   - [Get Started With Python](https://coursera.org/share/6f0d25002b1339684d5ba17cf289261c) - Received May 2024
-  - Go Beyond The Numbers: Translate Data Into Insights - Received June 2024
-  - The Power of Statistics - Received June 2024
-  - Regression Analysis: Simplify Complex Data Relationships - Received July 2024
-  - The Nuts and Bolts of Machine Learning - Received August 2024
-  - Google Advanced Data Analytics Capstone - Receievd September 2024
+  - [Go Beyond The Numbers: Translate Data Into Insights](https://coursera.org/share/b3b6574cd29a037b9ae49435bce3df66) - Received June 2024
+  - [The Power of Statistics](https://coursera.org/share/5a551e9d3b10cbf61cc47107b5369b7f) - Received June 2024
+  - [Regression Analysis: Simplify Complex Data Relationships](https://coursera.org/share/2932881417740057290e598ea478b734) - Received July 2024
+  - [The Nuts and Bolts of Machine Learning](https://coursera.org/share/f81ae4bfeb6f1a7a17a4a6ea2423ccce) - Received August 2024
+  - [Google Advanced Data Analytics Capstone](https://coursera.org/share/7c94e9cf7a42ac986058c03663ca5d71) - Receievd September 2024
 
 ## Achievements
 - **Winner of Fairfield University Sports Analytics competition, sponsored by Athletes Unlimited.** Constructed a machine learning model used to correlate performance of Athletes Unlimited basketball players to WNBA basketball players.
