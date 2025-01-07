@@ -17,7 +17,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 - **Tools:** MySQL, Jupyter Notebooks, Tableau, Git, Microsoft Office (Excel, Word, PowerPoint)
 
 ## Certificates
-- **[Google Advanced Data Analytics Certificate](https://coursera.org/share/ee57fc9f8aeecb8470971f03b5676197)** - Received September 2024
+- **[Google Advanced Data Analytics Certificate](https://www.credly.com/badges/8f486231-6ccb-4c67-a580-b98d5b217ff8/linked_in_profile)** - Received September 2024
   - [Foundations of Data Science](https://coursera.org/share/af4a13915e4d2c190a93305ee14b5bf2) - Received April 2024
   - [Get Started With Python](https://coursera.org/share/6f0d25002b1339684d5ba17cf289261c) - Received May 2024
   - [Go Beyond The Numbers: Translate Data Into Insights](https://coursera.org/share/b3b6574cd29a037b9ae49435bce3df66) - Received June 2024
