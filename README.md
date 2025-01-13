@@ -7,7 +7,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
   - Email: andrew.mahoney077@gmail.com
 
 ## Projects
-- **[User Chrun Rate: Waze App.](https://github.com/drewmahoney07/Waze-App-User-Churn-Project/tree/main)** In this project I developed a simple logistic regression model and a supervised classification machine learning model in order to predict whether a user of the Waze traffic app will churn, as well idendifying the biggest reasons why users are deciding to leave the app.
+- **[User Chrun Rate: Waze App.](https://github.com/drewmahoney07/Waze-App-User-Churn-Project/tree/main)** In this project I developed a simple logistic regression model and a supervised classification machine learning model in order to predict whether a user of the Waze traffic app will churn, as well as idendifying the biggest reasons why users are deciding to churn.
 - **Developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.** In this project I developed machine learning model using predictive analytics to analyze NBA statistical data and build "ideal" 5-player lineup.I synthesized data across 5 seasons, optimized for player efficiency rating and salary constraints.
 - **Identified Netflix’s best-performing shows and movies via applied machine learning model In group project.** Data mined and fully correlated sets of viewer pattern data via mining and synthesis of complex data sets.
 
